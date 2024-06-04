@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Nisha Jharbade</h1>
-<h3 align="center"> Data Analyst</h3>
+<h1 align="center">Data Analyst</h1>
 
+- **Hi 👋, I'm Nisha Jharbade**
 - 🌱 I’m Passionate about **Data Analytics**
 
 - 💬 Strong knowledge on **Power Bi, SQL ,Python and constantly learning and honning my skills in field of Data Analytics**
