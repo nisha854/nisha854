@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nisha Jharbade</h1>
-<h3 align="center">Passionate Data Analyst</h3>
+<h3 align="center"> Data Analyst</h3>
 
-- 🌱 I’m currently learning **statistics**
+- 🌱 I’m Passionate about **Data Analytics**
 
-- 💬 Ask me about **Power Bi, SQL and data analysis stuff**
+- 💬 Strong knowledge on **Power Bi, SQL ,Python and constantly learning and honning my skills in field of Data Analytics**
 
-- 📫 How to reach me **nishajharbade25@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/nisha-jharbade-057645165/
+**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
